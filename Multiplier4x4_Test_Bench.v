@@ -1,13 +1,13 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: SAHIL MAURYA, IIT MANDI Research Scholar
 // 
 // Create Date: 26.02.2025 19:16:51
-// Design Name: 
+// Design Name: 4x4 Multiplier Design
 // Module Name: multiplier_4x4_tb
-// Project Name: 
-// Target Devices: 
+// Project Name: Digital Design with Verilog HDL
+// Target Devices: xc7z0100clg400-1
 // Tool Versions: 
 // Description: 
 // 
